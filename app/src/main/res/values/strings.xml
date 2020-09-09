@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Уравнение</string>
+    <string name="equation_pattern">ax\u00B2 + bx + c = 0</string>
+    <string name="a">a =</string>
+    <string name="b">b =</string>
+    <string name="c">c =</string>
+    <string name="roots_title">Корни</string>
+    <string name="equation_title">Уравнение</string>
+    <string name="title_activity_equation">EquationActivity</string>
+
+</resources>
